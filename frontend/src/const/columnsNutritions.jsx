@@ -1,0 +1,30 @@
+const ColumnsNutritions = [
+ 
+    "Name",
+    "Energy",
+    "Water",
+    "Protein",
+    "Fat",
+    "Carbohydr",
+    "Diatery fiber",
+    "Alcohol",
+    "Pufa",
+    "Cholesterol",
+    "Vit A",
+    "Carotene",
+    "Vit E",
+    "Vit B1",
+    "Vit B2",
+    "Vit B6",
+    "Fol acid",
+    "Vit C",
+    "Sodium",
+    "Potassium",
+    "Calcium",
+    "Magnesium",
+    "Phosphorus",
+    "Iron",
+    "Zinc",
+]
+
+export default ColumnsNutritions;
